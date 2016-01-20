@@ -52,5 +52,9 @@ namespace ETicaret.Controllers
         {
             return View();
         }
+        public ActionResult indexnavlayout()
+        {
+            return View();
+        }
     }
 }
